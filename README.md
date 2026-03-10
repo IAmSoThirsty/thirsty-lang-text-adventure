@@ -1,3 +1,9 @@
+<div align="right">
+  <img src="https://img.shields.io/badge/Date-2026--03--10-blue?style=for-the-badge" alt="Date" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Tier-Master-gold?style=for-the-badge" alt="Tier" />
+</div>
+
 # Thirsty-lang Text Adventure Engine 💧🎮
 
 Build interactive fiction and text-based adventures with Thirsty-lang's immersive syntax.
